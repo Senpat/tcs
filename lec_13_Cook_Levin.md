@@ -7,7 +7,7 @@ chapternum: "15"
 #  NP, NP completeness, and the Cook-Levin Theorem {#cooklevinchap }
 
 > ### { .objectives }
-* Introduce the class $\mathbf{NP}$  capturing a great many important computational problems \
+* Introduce the class $\mathbf{NP}$  capturing many important computational problems \
 * $\mathbf{NP}$-completeness: evidence that a problem might be intractable. \
 * The $\mathbf{P}$ vs $\mathbf{NP}$ problem.
 
